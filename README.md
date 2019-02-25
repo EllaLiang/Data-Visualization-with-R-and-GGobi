@@ -6,6 +6,7 @@ Then I use assiciation rule mining for the Online Retail data. Please see the [R
 The datasets can be found in the 'Data' folder, and the Online Retail dataset can also be downloaded from the [UCI Website](https://archive.ics.uci.edu/ml/datasets/Online+Retail).
 
 # R libraries
+- readxl
 - ggplot2
 - rggobi
 - arules
