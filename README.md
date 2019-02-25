@@ -17,7 +17,6 @@ The cars data can be found in the 'Data' folder, and the Online Retail dataset c
  Report.pdf
  Data/
     cars.data
-    Online Retail.data
  Code/
     code.r
  ```
