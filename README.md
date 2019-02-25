@@ -3,7 +3,7 @@ In this project I use visualiza tools (R and GGobi) to present a visual analysis
 Then I use assiciation rule mining for the Online Retail data. Please see the [Report](https://github.com/EllaLiang/Data-Visualization-with-R-and-GGobi/blob/master/Report.pdf) for more details.
 
 # Data Set
-The datasets can be found in the 'Data' folder, and the Online Retail dataset can also be downloaded from the [UCI Website](https://archive.ics.uci.edu/ml/datasets/Online+Retail).
+The cars data can be found in the 'Data' folder, and the Online Retail dataset can be downloaded from the [UCI Website](https://archive.ics.uci.edu/ml/datasets/Online+Retail).
 
 # R libraries
 - readxl
